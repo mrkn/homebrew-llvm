@@ -1,4 +1,4 @@
-class LlvmAT7 < Formula
+class LlvmAT70 < Formula
   desc "Next-gen compiler infrastructure"
   homepage "https://llvm.org/"
   url "https://releases.llvm.org/7.0.1/llvm-7.0.1.src.tar.xz"
